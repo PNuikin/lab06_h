@@ -2,10 +2,10 @@ name: CMake
 
 on:
  push:
-  branches: [patch1]
+  branches: [master]
   tags: -"v*1.*"
  pull_request:
-  branches: [patch1]
+  branches: [master]
 
 env:
 
