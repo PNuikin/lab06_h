@@ -1,8 +1,0 @@
-/home/pavel/PNuikin/workspace/projects/lab06_h/_build/CMakeFiles/formatter_lib.dir
-/home/pavel/PNuikin/workspace/projects/lab06_h/_build/CMakeFiles/formatter_ex_lib.dir
-/home/pavel/PNuikin/workspace/projects/lab06_h/_build/CMakeFiles/solver_lib.dir
-/home/pavel/PNuikin/workspace/projects/lab06_h/_build/CMakeFiles/solver.dir
-/home/pavel/PNuikin/workspace/projects/lab06_h/_build/CMakeFiles/package.dir
-/home/pavel/PNuikin/workspace/projects/lab06_h/_build/CMakeFiles/package_source.dir
-/home/pavel/PNuikin/workspace/projects/lab06_h/_build/CMakeFiles/edit_cache.dir
-/home/pavel/PNuikin/workspace/projects/lab06_h/_build/CMakeFiles/rebuild_cache.dir
