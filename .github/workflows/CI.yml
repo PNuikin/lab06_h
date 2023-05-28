@@ -20,7 +20,7 @@ jobs:
 
     - run: cmake -H. -B_build -DCPACK_GENERATOR="TGZ"
     - run: cmake --build _build --target package 
-    - run: cd _build && cpack -G "DEB" &&
+    - run: cd _build && cpack -G "DEB"
     - run: cpack -G "RPM"
     - run: mkdir ../artifacts
     - run: mv *.tar.gz ../artifacts/
